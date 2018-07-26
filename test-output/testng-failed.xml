@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Edureka]">
+  <parameter name="scriptPath" value="C:\Malini\Selenium\Edureka\UploadFileForEdureka.exe"/>
+  <parameter name="filePath" value="C:\Malini\Hemamalini.jpg"/>
+  <parameter name="userName" value="malini.sahara@gmail.com"/>
+  <parameter name="pwd" value="sahara143!"/>
+  <test name="MavenJenkins(failed)">
+    <parameter name="scriptPath" value="C:\Malini\Selenium\Edureka\UploadFileForEdureka.exe"/>
+    <parameter name="filePath" value="C:\Malini\Hemamalini.jpg"/>
+    <parameter name="userName" value="malini.sahara@gmail.com"/>
+    <parameter name="pwd" value="sahara143!"/>
+    <classes>
+      <class name="com.edureka.maven.MavenJenkinsDemo">
+        <methods>
+          <include name="uploadPhoto" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.edureka.maven.MavenJenkinsDemo -->
+    </classes>
+  </test> <!-- MavenJenkins(failed) -->
+</suite> <!-- Failed suite [Edureka] -->

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Edureka" duration-ms="73959" started-at="2018-07-25T10:47:02Z" finished-at="2018-07-25T10:48:16Z">
+    <groups>
+    </groups>
+    <test name="MavenJenkins" duration-ms="73959" started-at="2018-07-25T10:47:02Z" finished-at="2018-07-25T10:48:16Z">
+      <class name="com.edureka.maven.MavenJenkinsDemo">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.edureka.maven.MavenJenkinsDemo@3754a4bf]" name="launchBrowser" duration-ms="9443" started-at="2018-07-25T16:17:02Z" finished-at="2018-07-25T16:17:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.edureka.maven.MavenJenkinsDemo@3754a4bf]" name="login" duration-ms="1248" started-at="2018-07-25T16:17:12Z" finished-at="2018-07-25T16:17:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[malini.sahara@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sahara143!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="uploadPhoto(java.lang.String, java.lang.String)[pri:0, instance:com.edureka.maven.MavenJenkinsDemo@3754a4bf]" name="uploadPhoto" duration-ms="52341" started-at="2018-07-25T16:17:13Z" finished-at="2018-07-25T16:18:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[C:\Malini\Hemamalini.jpg]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[C:\Malini\Selenium\Edureka\UploadFileForEdureka.exe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uploadPhoto -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.edureka.maven.MavenJenkinsDemo@3754a4bf]" name="logout" duration-ms="10905" started-at="2018-07-25T16:18:05Z" finished-at="2018-07-25T16:18:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- com.edureka.maven.MavenJenkinsDemo -->
+    </test> <!-- MavenJenkins -->
+  </suite> <!-- Edureka -->
+</testng-results>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Edureka">
+  <test thread-count="5" name="MavenJenkins">
+  <parameter name="userName" value="malini.sahara@gmail.com"></parameter>
+  <parameter name="pwd" value="sahara143!"></parameter>
+  <parameter name="filePath" value="C:\Malini\Hemamalini.jpg"></parameter>
+  <parameter name="scriptPath" value="C:\Malini\Selenium\Edureka\UploadFileForEdureka.exe"></parameter>
+  <classes>
+  <class name="com.edureka.maven.MavenJenkinsDemo"></class>
+  </classes>
+  </test> <!-- MavenJenkins -->
+</suite> <!-- Edureka -->

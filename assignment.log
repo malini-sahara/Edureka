@@ -1,0 +1,31 @@
+﻿2018-07-25 14:12:48 INFO  MavenJenkinsDemo:93 - clicked continue
+2018-07-25 14:12:48 INFO  MavenJenkinsDemo:114 - startTime::1.532508168086E12
+2018-07-25 14:12:48 INFO  MavenJenkinsDemo:117 - 1532508168128 into loop
+2018-07-25 14:12:48 INFO  MavenJenkinsDemo:117 - 1532508168728 into loop
+2018-07-25 14:12:49 INFO  MavenJenkinsDemo:124 - returning
+2018-07-25 14:12:49 INFO  MavenJenkinsDemo:97 - clicked next
+2018-07-25 14:12:49 INFO  MavenJenkinsDemo:114 - startTime::1.532508169305E12
+2018-07-25 14:12:49 INFO  MavenJenkinsDemo:117 - 1532508169336 into loop
+2018-07-25 14:12:49 INFO  MavenJenkinsDemo:124 - returning
+2018-07-25 14:12:49 INFO  MavenJenkinsDemo:101 - clicked next1
+2018-07-25 14:12:49 INFO  MavenJenkinsDemo:114 - startTime::1.532508169981E12
+2018-07-25 14:12:50 INFO  MavenJenkinsDemo:117 - 1532508170020 into loop
+2018-07-25 14:12:50 INFO  MavenJenkinsDemo:117 - 1532508170579 into loop
+2018-07-25 14:12:51 INFO  MavenJenkinsDemo:124 - returning
+2018-07-25 14:12:51 INFO  MavenJenkinsDemo:105 - clicked submit
+2018-07-25 14:15:00 INFO  MavenJenkinsDemo:93 - clicked continue
+2018-07-25 14:15:00 INFO  MavenJenkinsDemo:114 - startTime::1.53250830067E12
+2018-07-25 14:15:00 INFO  MavenJenkinsDemo:117 - 1532508300730 into loop
+2018-07-25 14:15:01 INFO  MavenJenkinsDemo:117 - 1532508301367 into loop
+2018-07-25 14:15:01 INFO  MavenJenkinsDemo:124 - returning
+2018-07-25 14:15:01 INFO  MavenJenkinsDemo:97 - clicked next
+2018-07-25 14:15:01 INFO  MavenJenkinsDemo:114 - startTime::1.532508301985E12
+2018-07-25 14:15:02 INFO  MavenJenkinsDemo:117 - 1532508302015 into loop
+2018-07-25 14:15:02 INFO  MavenJenkinsDemo:124 - returning
+2018-07-25 14:15:02 INFO  MavenJenkinsDemo:101 - clicked next1
+2018-07-25 14:15:02 INFO  MavenJenkinsDemo:114 - startTime::1.532508302604E12
+2018-07-25 14:15:02 INFO  MavenJenkinsDemo:117 - 1532508302637 into loop
+2018-07-25 14:15:03 INFO  MavenJenkinsDemo:117 - 1532508303196 into loop
+2018-07-25 14:15:03 INFO  MavenJenkinsDemo:117 - 1532508303757 into loop
+2018-07-25 14:15:04 INFO  MavenJenkinsDemo:124 - returning
+2018-07-25 14:15:04 INFO  MavenJenkinsDemo:105 - clicked submit
